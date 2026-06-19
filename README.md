@@ -1,3 +1,5 @@
+# Dataset is not included in this repository due to size.
+
 # Texas-Salary-Prediction
 End-to-end salary prediction project using EDA, feature engineering, and machine learning models.
 # Texas Salary Prediction Project
